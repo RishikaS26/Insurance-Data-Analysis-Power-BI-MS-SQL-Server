@@ -84,12 +84,6 @@ The dashboard includes the following visuals:
 - **Line Chart:** Analyze claim amounts across different age groups.
 - **Matrix Visual:** Compare Pending, Rejected, and Settled claim amounts across policy types.
 
-## 📊 Dashboard Preview
-
-![Insurance Data Analysis Dashboard](Insurance%20Dashboard.png)
-
-*Interactive Power BI dashboard for exploring insurance policies, premiums, coverage amounts, and claims.*
-
 ## 🔍 Key Metrics & Analysis
 
 The dashboard presents the following metrics and analytical views:
